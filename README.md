@@ -1,2 +1,2 @@
-# Velodyne-Tutorial
+# Velodyne Tutorial
 A Tutorial for Velodyne Lidars.
